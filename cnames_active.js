@@ -973,6 +973,7 @@ var cnames_active = {
   "effectful": "awto.github.io/effectfuljs",
   "effects": "effectsjs.github.io/effectsjs",
   "eggsy": "eggsywashere.github.io",
+  "eaglerbruh": "eaglerbruh.github.io/js.org",
   "ehsan": "ehsanfox.github.io",
   "eight": "cnzc.github.io/eight",
   "eiphop": "eiphop.netlify.app",
